@@ -1,7 +1,7 @@
-# Forked from original project HWTest for GCW Zero from https://bitbucket.org/clach04/hwtest/wiki/Home
-# Edited by bbruno5 at B5 Team
-# Sources: https://github.com/bbruno51/HWTest
-# 22-04-2019 11:01:10 GMT-3
+. Forked from original project HWTest for GCW Zero from https://bitbucket.org/clach04/hwtest/wiki/Home
+. Edited by bbruno5 at B5 Team
+. Sources: https://github.com/bbruno51/HWTest
+. 22-04-2019 11:01:10 GMT-3
 
 This app is made to test hardware buttons and other functionalities.
 
