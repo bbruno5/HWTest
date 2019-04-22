@@ -17,7 +17,7 @@ This guarantee that you'll can use Python on other projects without multi copyin
 =
 = Installation:
 =
-Copy and paste the directory project to your `/mnt/int_sd/apps` and create a link in gmenu2x / dmenu to hardware_test.sh.
+Copy and paste the directory project to your `/mnt/int_sd/apps` and create a link in gmenu2x / dmenu to HWTest.sh.
 All the other needed configs will be made automatically if you follow the requirements and installation steps.
 
 =
