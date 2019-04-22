@@ -4,6 +4,7 @@
 #
 # hardware_test - a simple PyGame hardware tester
 # Copyright (C) 2012  Chris Clark
+# Ported by bbruno5 for PAP KIII Plus
 """Hardware test app for PyGame.
 
 Targetted at GCW0 buttons and analog nub.
